@@ -1,0 +1,26 @@
+@import url(https://db.onlinewebfonts.com/c/fd1ad3a0f95210975d2f5607501020b5?family=Norse);
+
+* {
+    font-family: Norse, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: tan;
+}
+
+body{
+    color: maroon;
+    font-size: large;
+}
+
+a{
+    color: midnightblue;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+h1{
+    background-color: maroon;
+    color: navajowhite;
+    text-align: left;
+}
